@@ -47,17 +47,14 @@ main h2 {
     font-size:1.5em;
     line-height: 2.5;
 }
-main div {
-    margin-top:20px;
-}
 .detail > img {
     float:left; 
-    margin-right:50px;
+    margin-right:100px;
     border-radius:20px;
 }
 #interests ul{
-    padding-left:40px; 
+    padding-left:50px; 
 } 
 #contact p{
-    padding-left:40px; 
+    padding-left:50px; 
 }
